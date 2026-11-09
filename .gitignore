@@ -1,0 +1,12 @@
+# Kişisel veri asla repoya girmesin
+kayitlar/
+durum.json
+*.vcf
+*.wbxml
+*.bin
+# Derleme/ortam
+kisiler
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
